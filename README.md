@@ -1,6 +1,6 @@
 # YouTube-Channel
 
-In my YouTube channel I have a multitude of videos that help aspiring analysts how to perform ETL operations on their data. 
+In my [YouTube channel](https://www.youtube.com/@nickydee3088/videos) ) I have a multitude of videos that help aspiring analysts how to perform ETL operations on their data. 
 
 ![alt text](https://github.com/nick-rivera-ru/YouTube-Channel/blob/main/YT%20Channel.png)
 
