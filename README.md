@@ -1,4 +1,4 @@
-# YouTube-Channel
+# [YouTube-Channel](https://www.youtube.com/@nickydee3088/videos) 
 
 In my [YouTube channel](https://www.youtube.com/@nickydee3088/videos) I have a multitude of videos that help aspiring analysts how to perform ETL operations on their data. 
 
